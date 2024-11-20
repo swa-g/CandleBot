@@ -1,0 +1,2 @@
+# CandleBot 
+## Stock Market Application
